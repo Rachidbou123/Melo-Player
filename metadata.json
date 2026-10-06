@@ -1,0 +1,7 @@
+{
+  "name": "Melo",
+  "description": "Reliable, modern offline music player with intelligent local AI library recommendations, EQ, crossfade, and MediaSession integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

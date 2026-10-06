@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Geometric Audio Monolith Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 37,42 C 37,40.34 38.34,39 40,39 C 41.66,39 43,40.34 43,42 L 43,66 C 43,67.66 41.66,69 40,69 C 38.34,69 37,67.66 37,66 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 47,33 C 47,31.34 48.34,30 50,30 C 51.66,30 53,31.34 53,33 L 53,75 C 53,76.66 51.66,78 50,78 C 48.34,78 47,76.66 47,75 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 57,38 C 57,36.34 58.34,35 60,35 C 61.66,35 63,36.34 63,38 L 63,70 C 63,71.66 61.66,73 60,73 C 58.34,73 57,71.66 57,70 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 67,46 C 67,44.34 68.34,43 70,43 C 71.66,43 73,44.34 73,46 L 73,62 C 73,63.66 71.66,65 70,65 C 68.34,65 67,63.66 67,62 Z" />
+</vector>
